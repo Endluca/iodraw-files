@@ -19,23 +19,19 @@
         <mxCell id="9LTHBNHzUggr9q8Dh5O8-5" value="亲朋好友推荐" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9LTHBNHzUggr9q8Dh5O8-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9LTHBNHzUggr9q8Dh5O8-6" target="9LTHBNHzUggr9q8Dh5O8-7">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="9LTHBNHzUggr9q8Dh5O8-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9LTHBNHzUggr9q8Dh5O8-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="670" y="270.0000000000001" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="9LTHBNHzUggr9q8Dh5O8-6" value="同意并使用隐私手册" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="240" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="9LTHBNHzUggr9q8Dh5O8-7" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="220" width="50" height="100" as="geometry" />
         </mxCell>
         <mxCell id="9LTHBNHzUggr9q8Dh5O8-10" value="进入app" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="620" y="240" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9LTHBNHzUggr9q8Dh5O8-11" value="登录" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="170" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="9LTHBNHzUggr9q8Dh5O8-12" value="注册" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="720" y="190" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
