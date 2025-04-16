@@ -28,7 +28,7 @@
         <mxCell id="4vRZ-HSJorBgWfdAPMJC-8" value="可以按时参加" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4vRZ-HSJorBgWfdAPMJC-9" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4vRZ-HSJorBgWfdAPMJC-9" value="不想参加了" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="80" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
