@@ -34,8 +34,8 @@
         <mxCell id="9LTHBNHzUggr9q8Dh5O8-11" value="登录" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9LTHBNHzUggr9q8Dh5O8-12" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="710" y="250" width="120" height="60" as="geometry" />
+        <mxCell id="9LTHBNHzUggr9q8Dh5O8-12" value="注册" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="300" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
