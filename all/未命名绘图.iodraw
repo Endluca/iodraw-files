@@ -79,7 +79,7 @@
         <mxCell id="m3jEwW9yAPQ9aLLw4Epn-93" value="没有继续购买课程" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1411" y="340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="m3jEwW9yAPQ9aLLw4Epn-94" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="m3jEwW9yAPQ9aLLw4Epn-94" value="购买了课程" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1411" y="440" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
