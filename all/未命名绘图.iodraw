@@ -52,8 +52,14 @@
         <mxCell id="m3jEwW9yAPQ9aLLw4Epn-83" value="没有按时参加" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="870" y="250" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="m3jEwW9yAPQ9aLLw4Epn-86" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m3jEwW9yAPQ9aLLw4Epn-84" target="m3jEwW9yAPQ9aLLw4Epn-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="m3jEwW9yAPQ9aLLw4Epn-84" value="按时参加了，进行下一步" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="870" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m3jEwW9yAPQ9aLLw4Epn-85" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="340" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
