@@ -81,8 +81,14 @@
         <mxCell id="m3jEwW9yAPQ9aLLw4Epn-25" value="各种原因不想继续上课" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1581" y="280" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="m3jEwW9yAPQ9aLLw4Epn-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m3jEwW9yAPQ9aLLw4Epn-26" target="m3jEwW9yAPQ9aLLw4Epn-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="m3jEwW9yAPQ9aLLw4Epn-26" value="购买套餐课程，继续上课" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1581" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m3jEwW9yAPQ9aLLw4Epn-27" value="在app上预约课程" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1740" y="380" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
